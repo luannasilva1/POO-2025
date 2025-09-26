@@ -5,6 +5,6 @@ public class Cat extends Aniaml {
     }
     @Override
     public String sound() {
-        return "meow";
+        return name + " meow";
     }
 }
